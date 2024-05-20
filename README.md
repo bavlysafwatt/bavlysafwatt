@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bavly Safwat</h1>
-<h3 align="center">I am a 2TH YEAR student in Cairo University Majoring Computers and Artificial Intelligence</h3>
+<h3 align="center">I am a 2TH YEAR Student in Cairo University Majoring Computers and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bavlysafwatt&label=Profile%20views&color=0e75b6&style=flat" alt="bavlysafwatt" /> </p>
 
