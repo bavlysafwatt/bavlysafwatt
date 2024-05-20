@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **CPP, Data Structures, OOP**
+- 💬 Ask me about **CPP, Data Structures, OOP, Algorithms**
 
 - 📫 How to reach me **bavlysafwatt@gmail.com**
 
