@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bavly Safwat</h1>
 <h3 align="center">I am a 2TH YEAR Student in Cairo University Majoring Computers and Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bavlysafwatt&label=Profile%20views&color=0e75b6&style=flat" alt="bavlysafwatt" /> </p>
-
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=450&height=45&lines=Just+a+Student" alt="Typing SVG" /></a>
 </p> 
